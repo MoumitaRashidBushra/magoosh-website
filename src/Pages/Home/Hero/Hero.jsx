@@ -38,7 +38,7 @@ const Hero = () => {
 
                                         <div className="py-4 items-center text-center">
                                             <div>
-                                                <h1 className='text-xl font-bold '><a href="#">GRE<sup className=''>®</sup></a></h1>
+                                                <h1 className='text-xl font-bold text-white '><a href="#">GRE<sup className=''>®</sup></a></h1>
 
                                             </div>
                                         </div>
@@ -49,7 +49,7 @@ const Hero = () => {
 
                                         <div className="py-4 items-center text-center">
                                             <div>
-                                                <h1 className='text-xl font-bold '><a href="#">GMAT<sup className=''>®</sup></a></h1>
+                                                <h1 className='text-xl font-bold text-white  '><a href="#">GMAT<sup className=''>®</sup></a></h1>
 
                                             </div>
                                         </div>
@@ -60,7 +60,7 @@ const Hero = () => {
 
                                         <div className="py-4 items-center text-center">
                                             <div>
-                                                <h1 className='text-xl font-bold '><a href="#">Admission</a></h1>
+                                                <h1 className='text-xl font-bold text-white '><a href="#">Admission</a></h1>
 
                                             </div>
                                         </div>
@@ -71,7 +71,7 @@ const Hero = () => {
 
                                         <div className="py-4 items-center text-center">
                                             <div>
-                                                <h1 className='text-xl font-bold '><a href="#">TOEFL<sup className=''>®</sup></a></h1>
+                                                <h1 className='text-xl font-bold text-white '><a href="#">TOEFL<sup className=''>®</sup></a></h1>
 
                                             </div>
                                         </div>
@@ -82,7 +82,7 @@ const Hero = () => {
 
                                         <div className="py-4 items-center text-center">
                                             <div>
-                                                <h1 className='text-xl font-bold '><a href="#">SAT<sup className=''>®</sup></a></h1>
+                                                <h1 className='text-xl font-bold text-white '><a href="#">SAT<sup className=''>®</sup></a></h1>
 
                                             </div>
                                         </div>
@@ -93,7 +93,7 @@ const Hero = () => {
 
                                         <div className="py-4 items-center text-center">
                                             <div>
-                                                <h1 className='text-xl font-bold '><a href="#">ACT<sup className=''>®</sup></a></h1>
+                                                <h1 className='text-xl font-bold text-white '><a href="#">ACT<sup className=''>®</sup></a></h1>
 
                                             </div>
                                         </div>
@@ -104,7 +104,7 @@ const Hero = () => {
 
                                         <div className="py-4 items-center text-center">
                                             <div>
-                                                <h1 className='text-xl font-bold '><a href="#">LSAT<sup className=''>®</sup></a></h1>
+                                                <h1 className='text-xl font-bold text-white '><a href="#">LSAT<sup className=''>®</sup></a></h1>
 
                                             </div>
                                         </div>
@@ -115,7 +115,7 @@ const Hero = () => {
 
                                         <div className="py-4 items-center text-center">
                                             <div>
-                                                <h1 className='text-xl font-bold '><a href="#">MCAT<sup className=''>®</sup></a></h1>
+                                                <h1 className='text-xl font-bold text-white '><a href="#">MCAT<sup className=''>®</sup></a></h1>
 
                                             </div>
                                         </div>
@@ -126,7 +126,7 @@ const Hero = () => {
 
                                         <div className="py-4 items-center text-center">
                                             <div>
-                                                <h1 className='text-xl font-bold '><a href="#">IELTS<sup className=''>®</sup></a></h1>
+                                                <h1 className='text-xl font-bold text-white '><a href="#">IELTS<sup className=''>®</sup></a></h1>
 
                                             </div>
                                         </div>
